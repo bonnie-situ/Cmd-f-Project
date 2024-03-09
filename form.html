@@ -9,10 +9,20 @@
 <body>
     <form action="results.html" method="GET">
         <div>
-            <label>Description of photo</label>
-            <input name="Description">
+            <label>
+                Description of photo
+                <input type= "text" name="Description" placeholder="Give us a description of your photo!"
+                required>
+            </label>
         </div>
-        <button>Submit</button>
+        <div>
+            <label>
+                Email
+                <input type= "email" name="Email" placeholder="Please put your email if you want to receive updates about our project!">
+            </label>
+        </div>
+        <button type= "reset">Reset</button>
+        <button type= "submit">Submit</button>
     </form>
 </body>
 </html>
