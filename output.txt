@@ -1,0 +1,51 @@
+ORIGINAL RESEARCH
+
+A ere
+
+International Journal of Sport Nutrition, 1997, 7, 1-9
+© 1997 Human Kinetics Publishers, Inc.
+
+Exercise-Induced Oxidative Stress Before
+and After Vitamin C Supplementation
+
+Helaine M. Alessio, Allan H. Goldfarb, and Guohua Cao
+
+Vitamin C (ascorbic acid) was supplemented (1 g/day) for 1 day and 2 weeks
+in the same subjects. Plasma thiobarbituric acid reacting substances (TBARS)
+and oxygen radical absorbance capacity (ORAC) before and after 30 min
+submaximal exercise were measured. Different vitamin C supplementations
+did not affect resting TBARS or ORAC. Following 30 min exercise, values for
+TBARS were 12.6 and 33% above rest with 1 day and 2 weeks of vitamin C
+supplementation, respectively, compared to 46% higher with placebo. ORAC
+did not significantly change (11%) after exercise with a placebo, nor when
+subjects were given vitamin C supplements for 1 day or 2 weeks (4.9% and
+5.73%, respectively). TBARS:ORAC, a ratio representing oxidative stress,
+increased 32% (p < .05) with placebo compared to 5.8 and 25.8% with vitamin
+C supplements for 1 day and 2 weeks, respectively. It was concluded that
+exercise-induced oxidative stress was highest when subjects did not supple-
+ment with vitamin C compared to either 1 day or 2 weeks of vitamin C
+supplementation.
+
+Key Words: antioxidants, ascorbic acid, physical activity
+
+Dietary supplementation with vitamin C (ascorbic acid) has occurred at least
+since the 18th century, when British sailors added vitamin C-rich foods to their diets
+to prevent scurvy. In the late 20th century, vitamin C supplementation in vitamin C—
+deficient people is believed to enhance health (7) and improve performance (8, 19).
+The proposed mechanisms by which vitamin C prevents disease and enhances
+health in vitamin C—deficient people vary, but one theory that has received recent
+attention has focused on vitamin C’s contribution to antioxidant chain reactions.
+Antioxidant activity of vitamin C continues to be investigated to determine how it
+interacts with reactive oxygen species (ROS) (9). Vitamin C directly reduces
+peroxyl radicals and indirectly reduces other free radicals by regenerating alpha
+tocopherol (vitamin E) (Figure 1) after it is oxidized by either peroxyl or hydroxyl
+radicals. The antioxidant benefits of vitamin C are of particular interest because of
+the widespread use of vitamin C supplements and the ability of most humans to
+tolerate high supplementation without toxic side effects (3). Tolerance of vitamin
+
+HM. Alessio is with the PHS Department, Miami University, Oxford, OH 45056.
+A.H. Goldfarb is with the Department of Exercise Science, University of North Carolina,
+Greensboro, NC 27412. G. Cao is with the Human Nutrition Research Center, University of
+Connecticut, Storrs, CT 06296.
+
+VIVERSITY OF BRITISH COLUMBIA VANCOUVER | Unauthenticated | Downloaded 03/09/24 10:03 pmlutc
