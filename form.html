@@ -8,26 +8,29 @@
 </head>
 <body>
     <form action="results.html" method="GET" enctype="multipart/form-data">
-        <div>
-            <label for="file">Image</label>
-            <input id="file" type="file" name="Image"
-        </div>
-        <div>
-            <label for="description of image">Description of image</label>
-                <textarea id= "description" name="Description" placeholder="Give us a description of your image!"
-                required></textarea> 
-        </div>
-        <div>
-            <label>
-                Email
-                <input type= "email" name="Email" placeholder="Please put your email if you want to receive updates about our project!">
-            </label>
-        </div>
-        <div>
-            <input type="hidden" name="Thank you" value="for submitting an image!">
-        </div>
-        <button type= "reset">Reset</button>
-        <button type= "submit">Submit</button>
+        <fieldset>
+            <legend>Submit an image that is hard to read!</legend>
+            <div>
+                <label for="file">Image</label>
+                <input id="file" type="file" name="Image"
+            </div>
+            <div>
+                <label for="description of image">Description of image</label>
+                    <textarea id= "description" name="Description" placeholder="Give us a description of your image!"
+                    required></textarea> 
+            </div>
+            <div>
+                <label>
+                    Email
+                    <input type= "email" name="Email" placeholder="Please put your email if you want to receive updates about our project!">
+                </label>
+            </div>
+            <div>
+                <input type="hidden" name="Thank you" value="for submitting an image!">
+            </div>
+            <button type= "reset">Reset</button>
+            <button type= "submit">Submit</button>
+        </fieldset>
     </form>
 </body>
 </html>
