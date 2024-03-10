@@ -8,3 +8,8 @@ body{
 .hyperlinks{
     text-align: right;
 }
+
+ul, ol{
+    display: inline-block;
+    text-align: left;
+}
