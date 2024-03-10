@@ -7,7 +7,11 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <form action="results.html" method="GET">
+    <form action="results.html" method="GET" enctype="multipart/form-data">
+        <div>
+            <label for="file">Image</label>
+            <input id="file" type="file" name="Image"
+        </div>
         <div>
             <label for="description of image">Description of image</label>
                 <textarea id= "description" name="Description" placeholder="Give us a description of your image!"
@@ -20,7 +24,7 @@
             </label>
         </div>
         <div>
-            <input type="hidden" name="thank you note" value="Thank you for your image!">
+            <input type="hidden" name="Thank you" value="for submitting an image!">
         </div>
         <button type= "reset">Reset</button>
         <button type= "submit">Submit</button>
