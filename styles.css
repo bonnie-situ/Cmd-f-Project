@@ -13,3 +13,15 @@ body{
     display: flex;
     align-items: right
 }
+
+.logo{
+    width: 100px;
+}
+
+.logo_img{
+        padding-bottom: 0px;
+}
+
+.name{
+    padding-top: 0px;
+}
