@@ -9,3 +9,6 @@ body{
     text-align: right;
 }
 
+#container {
+    display: flex;
+}
