@@ -8,17 +8,18 @@
 <body>
     <form action="results.html" method="GET">
         <div>
-            <label>
-                Description of photo
-                <input type= "text" name="Description" placeholder="Give us a description of your photo!"
-                required>
-            </label>
+            <label for="description of image">Description of image</label>
+                <textarea id= "description" name="Description" placeholder="Give us a description of your image!"
+                required></textarea> 
         </div>
         <div>
             <label>
                 Email
                 <input type= "email" name="Email" placeholder="Please put your email if you want to receive updates about our project!">
             </label>
+        </div>
+        <div>
+            <input type="hidden" name="thank you note" value="Thank you for your image!">
         </div>
         <button type= "reset">Reset</button>
         <button type= "submit">Submit</button>
