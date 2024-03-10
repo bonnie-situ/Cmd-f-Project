@@ -9,7 +9,7 @@ body{
     text-align: right;
 }
 
-ul, ol{
-    display: inline-block;
-    text-align: left;
+#container {
+    display: flex;
+    align-items: right
 }
